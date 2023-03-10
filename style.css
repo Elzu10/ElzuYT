@@ -1,0 +1,88 @@
+
+
+
+body{
+    background-color: black;
+}
+
+h2 {
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+    font-family: cursive;
+}
+h3 {
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+    font-family: cursive;
+}
+
+h1 {
+    font-size: 5rem;
+    font-family:cursive;
+    color: white;
+    text-align: center;
+}
+
+
+.Elzuesittely {
+    height: 50vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 90vh;
+}
+button {
+    
+    width: 20vh;
+    height: 5vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-family: cursive;
+    font-size: 1rem;
+    font-display: 1;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.5s;
+}
+
+a{
+    color: white;
+    font-size: 2rem;
+    font-family: cursive;
+    margin-left: auto;
+    margin-left: auto;
+    display: block;
+    text-align: center;
+    margin-bottom: 3;
+    transition: color 0.15s;
+    transition: font-weight 0.15s;
+}
+h4 {
+    font-family: cursive;
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+}
+button:hover {
+    background-color: rgb(175, 0, 0);   
+}
+button:active {
+    background-color: rgb(253, 32, 32);
+}  
+    a:hover {
+    color: rgb(124, 124, 124);
+ font-weight: bold;
+     }
+     .fall-guys {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 40vh;
+    width: 70vh;
+}
